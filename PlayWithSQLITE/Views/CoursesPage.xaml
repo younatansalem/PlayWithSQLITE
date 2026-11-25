@@ -10,7 +10,7 @@
 
     <ScrollView>
         <VerticalStackLayout Padding="16" Spacing="16">
-            <Label Text="📚 ניהול קורסים ומורים (קשר 1:N)"
+            <Label Text="📚 ניהול קורסים  bומורים (קשר 1:N)"
                    FontSize="20"
                    FontAttributes="Bold"
                    HorizontalOptions="Center" />
